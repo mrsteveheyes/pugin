@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
-        <base href="http://www.pugin.org/"><!--[if lte IE 6]></base><![endif]-->
+        <base href="https://www.pugin.org/"><!--[if lte IE 6]></base><![endif]-->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Slideshow &raquo; The Big Story of Pugin</title>
@@ -25,30 +25,30 @@
             <div class="content">
                 <nav class="masthead__nav">
                     <p class="s s--logo">The Big Story of Pugin</p>
-                    
+
                     <ul class='nav nav--inline'>
-                             
+
                         <li><a href="/" class="link">Home</a></li>
-                             
+
                         <li><a href="/about/" class="link">About</a></li>
-                             
+
                         <li><a href="/schools/" class="link">Schools</a></li>
-                             
+
                         <li><a href="/gallery/" class="section">Gallery</a></li>
-                             
+
                         <li><a href="/contact/" class="link">Contact</a></li>
-                        
+
                     </ul>
-                    
+
                 </nav>
             </div>
             <div class="masthead__feature">
                 <div class="content">
                     <h1 class="alpha">Slideshow</h1>
                 </div>
-                
+
                     <img src="/themes/pugin/images/tmp/banner-church.jpg" alt="">
-                
+
             </div>
         </header>
 
@@ -65,30 +65,30 @@
                         <div class="slideshow">
                             <div id="slideshow" class="slideshow__container">
                                 <!--<img src="/themes/pugin/images/spinner.gif" alt="" id="slideshow__spinner">-->
-                                
-                                
+
+
                                 <img src="/assets/bulkUpload/pugin-photos-0047-DSCN0071.jpg" width="819px" height="383px" />
-                                
-                                
-                                
+
+
+
                                 <img src="/assets/bulkUpload/pugin-photos-0045-DSCN0073.jpg" width="819px" height="383px" />
-                                
-                                
-                                
+
+
+
                                 <img src="/assets/bulkUpload/pugin-photos-0061-IMG-4767.jpg" width="819px" height="383px" />
-                                
-                                
-                                
+
+
+
                                 <img src="/assets/bulkUpload/pugin-photos-0055-DSCN0006.jpg" width="819px" height="383px" />
-                                
-                                
+
+
                             </div>
                         </div>
 
                     </div>
                 </div>
             </div>
-            
+
             <div class="controls">
                 <a href="/gallery/slideshow#" class="control control--previous" id="prev">Previous</a>
                 <a href="/gallery/slideshow#" class="control control--pause" id="pause">Pause</a>
@@ -102,21 +102,21 @@
         <footer class='footer'>
             <div class='content'>
                 <div class="footer__content">
-                    
+
                     <ul class='nav nav--inline nav--secondary'>
-                             
+
                         <li><a href="/" class="link">Home</a></li>
-                             
+
                         <li><a href="/about/" class="link">About</a></li>
-                             
+
                         <li><a href="/schools/" class="link">Schools</a></li>
-                             
+
                         <li><a href="/gallery/" class="section">Gallery</a></li>
-                             
+
                         <li><a href="/contact/" class="link">Contact</a></li>
-                        
+
                     </ul>
-                    
+
                     <ul class='nav nav--inline nav--logos'>
                         <li><img src="/themes/pugin/images/logo-lottery-fund.png"></li>
                         <li><a href="http://urbandevotion.org"><img src="/themes/pugin/images/logo-udb.png"></a></li>
